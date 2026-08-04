@@ -1,5 +1,6 @@
 import React from "react";
 import heroBg from "../assets/hero.png";
+import Card from "./Card";
 
 const Hero = () => {
   return (
@@ -15,8 +16,10 @@ const Hero = () => {
             <br />
             For everybody.
           </h1>
-
+            <div className="mt-50 "> <Card/> </div>
         </div>
+
+       
 
         {/* Right Side */}
         <div className="w-1/2 flex justify-center items-end">
