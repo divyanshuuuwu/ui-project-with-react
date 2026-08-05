@@ -7,7 +7,7 @@ const Card = () => {
         <div className='w-30 h-40 bg-zinc-500 flex shrink-0 rounded-4xl overflow-hidden '>
         <img src={cardimg} alt="" className='w-full h-full object-cover'/>
         </div>
-
+ 
         <h1 className='py-10'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, voluptates.
             
         </h1>
