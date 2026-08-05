@@ -8,7 +8,7 @@ const Card = () => {
         <img src={cardimg} alt="" className='w-full h-full object-cover'/>
         </div>
  
-        <h1 className='py-10'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, voluptates.
+        <h1 className='py-10'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Id harum modi, voluptatum in vero voluptas?
             
         </h1>
 
